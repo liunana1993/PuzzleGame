@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\ProjectAS\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\crop__ic_cancel.png",
+        "source": "F:\\ProjectAS\\lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\crop__ic_cancel.png"
+    },
+    {
+        "merged": "F:\\ProjectAS\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\crop__tile.png",
+        "source": "F:\\ProjectAS\\lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\crop__tile.png"
+    },
+    {
+        "merged": "F:\\Heros\\PuzzleGame\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\crop__tile.png",
+        "source": "F:\\Heros\\PuzzleGame\\lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\crop__tile.png"
+    },
+    {
+        "merged": "F:\\ProjectAS\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\crop__ic_done.png",
+        "source": "F:\\ProjectAS\\lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\crop__ic_done.png"
+    },
+    {
+        "merged": "F:\\Heros\\PuzzleGame\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\crop__divider.9.png",
+        "source": "F:\\Heros\\PuzzleGame\\lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\crop__divider.9.png"
+    },
+    {
+        "merged": "F:\\Heros\\PuzzleGame\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\crop__ic_done.png",
+        "source": "F:\\Heros\\PuzzleGame\\lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\crop__ic_done.png"
+    },
+    {
+        "merged": "F:\\ProjectAS\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\crop__divider.9.png",
+        "source": "F:\\ProjectAS\\lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\crop__divider.9.png"
+    },
+    {
+        "merged": "F:\\Heros\\PuzzleGame\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\crop__ic_cancel.png",
+        "source": "F:\\Heros\\PuzzleGame\\lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\crop__ic_cancel.png"
+    }
+]

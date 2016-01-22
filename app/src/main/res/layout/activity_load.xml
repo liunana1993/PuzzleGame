@@ -1,0 +1,42 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".main.LoadActivity">
+
+    <!-- The primary full-screen view. This can be replaced with whatever view
+         is needed to present your content, e.g. VideoView, SurfaceView,
+         TextureView, etc. -->
+    <RelativeLayout
+        android:id="@+id/fullscreen_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <com.puzzle.app.puzzlegame.view.GradientiTextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            app:orientation="vertical"
+            app:startColor="#33cf0606"
+            app:middleColor="#ff9621be"
+            app:endColor="#3333b5e5"
+            app:textStyle="vertical"
+            app:duration="180"
+            app:type="repeat"
+            android:paddingBottom="50dp"
+            android:layout_centerInParent="true"
+            android:text="@string/puzzle_game"
+            android:textSize="32sp" />
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:visibility="gone"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:paddingBottom="20dp"
+            android:src="@mipmap/ic_launcher"/>
+    </RelativeLayout>
+
+
+
+</FrameLayout>
